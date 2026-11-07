@@ -1,0 +1,38 @@
+{
+  "brand": "Your Brand Name",
+  "product_type": "product",
+  "audience": "Who you are talking to, in one sentence.",
+  "voice": "Warm, first person, specific. Short lines. Say it the way you would say it to a friend.",
+  "proven_hooks": [],
+  "never_say": [],
+  "people_rules": "Only use photos of people who have said yes to being used. Never publish a photo of a child unless a parent has agreed.",
+  "people_types": ["mum", "dad", "child"],
+  "sections": [
+    {"key": "cover", "label": "Cover"},
+    {"key": "inside", "label": "Inside"},
+    {"key": "details", "label": "Details"}
+  ],
+  "tagsets": {
+    "core": ["yourbrand", "yourniche", "parenting"]
+  },
+  "format_labels": {
+    "nonneg": "Non Negotiable",
+    "traditions": "Traditions",
+    "founder": "Founder Story",
+    "needs": "What They Need",
+    "seasonal": "Seasonal",
+    "angles": "New Angles"
+  },
+  "posting": {
+    "per_day": 3,
+    "batch_size": 60,
+    "start_date": "2026-01-01",
+    "lead_with": [],
+    "seasonal_families": ["seasonal"],
+    "seasonal_from": 0.4,
+    "proven_first": 6
+  },
+  "settings": {
+    "mum": "mum"
+  }
+}

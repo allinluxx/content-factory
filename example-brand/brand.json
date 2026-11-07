@@ -1,0 +1,50 @@
+{
+  "brand": "Sunny Sprouts",
+  "product_type": "product",
+  "audience": "Parents and grandparents of 3 to 8 year olds who want the children outside, hands in the soil and away from screens for a while.",
+  "voice": "Warm, first person, specific. Short lines, plain words. Sounds like a parent talking to another parent over the fence, never like an advert.",
+  "proven_hooks": [
+    "Non negotiable as a {mum} ...",
+    "6 things I plan on doing with my kids every ...",
+    "So I made one",
+    "What they actually need to ..."
+  ],
+  "never_say": ["guaranteed", "cure", "scientifically proven", "best in the world", "doctor recommended"],
+  "people_rules": "Only photos of people who have agreed to be used. Never a child's photo without a parent's yes. Never name or describe a real person in a made-up story.",
+  "people_types": ["mum", "dad", "child"],
+  "sections": [
+    {"key": "kit", "label": "The kit"},
+    {"key": "planting", "label": "Planting"},
+    {"key": "bugs", "label": "Bug hunt"},
+    {"key": "harvest", "label": "Harvest"},
+    {"key": "story", "label": "Story time"}
+  ],
+  "tagsets": {
+    "core": ["gardeningwithkids", "kidsgardening", "toddlermom", "outdoorplay", "parentsoftiktok"],
+    "seasonal": ["wintergardening", "windowsillgarden", "kidsactivities", "cosyathome"]
+  },
+  "format_labels": {
+    "nonneg": "Non Negotiable",
+    "traditions": "Traditions",
+    "founder": "So I Made One",
+    "needs": "What They Need",
+    "seasonal": "Seasonal",
+    "angles": "New Angles"
+  },
+  "posting": {
+    "per_day": 2,
+    "batch_size": 6,
+    "start_date": "2026-03-01",
+    "lead_with": ["founder", "traditions", "nonneg"],
+    "seasonal_families": ["seasonal"],
+    "seasonal_from": 0.4,
+    "proven_first": 6
+  },
+  "settings": {
+    "mum": "mum",
+    "kids": "little ones"
+  },
+  "text": {
+    "default_style": "outline"
+  }
+}

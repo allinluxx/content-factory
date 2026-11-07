@@ -1,0 +1,4 @@
+#!/bin/sh
+# Stops a push if anything private is about to go out. See engine/check_safe.py
+cd "$(git rev-parse --show-toplevel)" || exit 1
+python3 engine/check_safe.py || { echo "Push stopped by the safety check."; exit 1; }

@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": "nonneg-garden",
+      "family": "nonneg",
+      "need": {"people": ["mum"], "any": ["child"], "prefer": ["planting"]},
+      "hook": "Non negotiable as a {mum} who wants her {kids} outside",
+      "slides": [
+        ["planting", "Let them get properly muddy.", "Old clothes, bare hands, no rush. Mud is part of the lesson, not a mess to prevent."],
+        ["bugs", "Make friends with the bugs.", "Worms and woodlice are the main characters of any garden. Get down low and say hello."],
+        ["family", "Water it together 💚", "Five minutes with the watering can after tea. Small, slow and the one bit of the day with no screen."],
+        ["harvest", "Eat what you grow.", "Even if it is one wonky carrot. Especially if it is one wonky carrot."],
+        ["kit", "Give them their own tools.", "Child sized trowel, their own seeds, their own patch. It is theirs, so they look after it."]
+      ],
+      "title": "Non negotiable for us: the garden belongs to the children too",
+      "caption": "I used to keep the garden tidy and the children out of it. Now it is the other way round, and I would not go back. Muddy knees, slow Sundays, and a small person very proud of a very small carrot 💚",
+      "tags": "core",
+      "test": false
+    },
+    {
+      "id": "traditions-spring",
+      "family": "traditions",
+      "need": {"season": ["spring", "any"], "prefer": ["planting", "reading"]},
+      "hook": "6 things I plan on doing with my kids every spring",
+      "slides": [
+        ["planting", "Plant something on the first warm day.", "Anything. A pot of cress counts. The point is starting the season together."],
+        ["bugs", "Go on a bug hunt.", "Jam jar, magnifying glass, and one rule: everyone goes home again."],
+        ["family", "Sow a row each.", "Each child picks a vegetable and keeps a little patch. Arguments about whose is growing faster are part of the tradition."],
+        ["story", "Read a garden story outside.", "Blanket on the grass, one chapter, no phones. The book travels with us."],
+        ["harvest", "Make a first-of-the-year salad.", "Radishes come up fast, so the wait is short and the pride is big."],
+        ["kit", "Keep a growing diary.", "A drawing a week. By summer it is the best photo album we own."]
+      ],
+      "title": "Our spring list, written down so we actually do it",
+      "caption": "Nothing fancy and nothing that needs a trip anywhere. Just a little list on the fridge that gets us outside together every spring. What would you add to yours?",
+      "tags": "core",
+      "test": false
+    },
+    {
+      "id": "so-i-made-one",
+      "family": "founder",
+      "need": {"any": ["child"], "prefer": ["planting"]},
+      "hook_box": ["I could not find a garden kit my kids would actually finish", "so I made one"],
+      "slides": [
+        ["kit", "", ""],
+        ["planting", "", ""],
+        ["story", "", ""],
+        ["harvest", "", ""]
+      ],
+      "title": "So I made one: a garden kit and a book in one box",
+      "caption": "Every kit I tried was either all pieces and no story, or all story and nothing to dig. So I put the two together: seeds, tools and a picture book for little hands. Link in bio if you want to see inside 🌱",
+      "tags": "core",
+      "test": false
+    },
+    {
+      "id": "needs-start",
+      "family": "needs",
+      "need": {"people": ["dad"]},
+      "hook": "What they actually need to start gardening with kids",
+      "slides": [
+        ["kit", "Fewer things than you think.", "A pot, some soil, a few seeds and a small spade. That is the whole list."],
+        ["planting", "A patch of their own.", "Even a window box. Ownership is what keeps a small person coming back."],
+        ["family", "Someone to be curious with.", "You do not need to know the names of anything. Just look closely together and ask what is that?"],
+        ["story", "A story to hang it on.", "A book turns a pot of soil into an adventure, and bedtime gets a reason to talk about tomorrow's watering."],
+        ["harvest", "Permission to wait.", "Seeds take their time. So does everything worth having."]
+      ],
+      "title": "You do not need a big garden, just a small start",
+      "caption": "When people ask where to begin, I tell them to begin smaller than feels worth it. One pot, one packet, one child with a spoon. The rest follows 🌱",
+      "tags": "core",
+      "test": false
+    },
+    {
+      "id": "seasonal-winter-windowsill",
+      "family": "seasonal",
+      "need": {"season": ["winter"]},
+      "hook": "6 cosy things to grow on a windowsill this winter",
+      "slides": [
+        ["planting", "Cress", "Ready in a week, and it counts as a first harvest."],
+        ["harvest", "Salad leaves", "Snip a few leaves for a sandwich. The best lunch of the month."],
+        ["kit", "Herbs in a mug", "Any old mug with a hole in the bottom, a saucer underneath and a label in wobbly handwriting."],
+        ["bugs", "A jar of beans", "Beans between wet paper and the glass. You can watch the roots appear."],
+        ["story", "Something from the book", "Pick the page you liked best and grow that. Then read it again while you wait."]
+      ],
+      "title": "Grey outside, green on the windowsill",
+      "caption": "Winter afternoons are long, and a windowsill of small green things makes them shorter. Which one would you start with?",
+      "tags": "seasonal",
+      "test": true
+    },
+    {
+      "id": "angles-first-carrot",
+      "family": "angles",
+      "need": {"any": ["child"], "prefer": ["harvest"]},
+      "hook": "POV: your three year old pulls up their first ever carrot",
+      "slides": [
+        ["harvest", "The pull.", "Both hands, full effort, a very serious face."],
+        ["family", "The look.", "Part disbelief, part triumph. It is a carrot the size of a finger and it is the best thing they have ever done."],
+        ["kit", "The plan.", "Wash it, snap it, eat it on the spot. No notes."]
+      ],
+      "title": "The most proud face I have ever seen on a three year old",
+      "caption": "Small carrot, enormous pride. This is why we grow things with the children 🥕",
+      "tags": "core",
+      "test": true
+    }
+  ]
+}
